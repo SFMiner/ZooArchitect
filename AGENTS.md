@@ -34,3 +34,10 @@
 - Keep assets royalty-free or properly licensed; store license files alongside third-party content in `res://assets/`.
 - If you add plugins or addons, document their version and source in the PR and store them under `res://addons/`.
 - When modifying project settings, favor editor UI over manual edits to `project.godot` to avoid invalid keys.
+
+## Git
+- Git repo has been initialized and initial commit has been made. 
+- username: sfminer@gmail.com
+
+## Sprites
+- Non-animated Animal sprites can are located in res://assets/
